@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **iOS related stuff.**
 
-- 📫 How to reach me **linktr.ee/sanaaayyy**
+- 📫 How to reach me **[Sanay Singh's World](https://linktr.ee/sanaaayyy)**
 
 - ⚡ Fun fact **I'm a video editor and I do jokes.**
 
