@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Swift Programming.
 - 💬 Ask me about any iOS related stuff.
-- 📫 How to reach me: linktr.ee/sanaaayyy
+- 📫 How to reach me: Sanay Singh’s World
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I'm a video editor and I do jokes.
