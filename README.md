@@ -1,6 +1,10 @@
 <h1 align="center">Sup? 👋, I'm Sanay Singh Rajawat</h1>
 <h3 align="center">A passionate freshman developer from India</h3>
 
+
+![5128B947-A528-43F2-A033-B7D7E69A6A37](https://user-images.githubusercontent.com/95211795/149956019-9f5fca11-05f7-4ad2-9a21-3b31c7f5c8a6.jpg)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanaaayyy&label=Profile%20views&color=0e75b6&style=flat" alt="sanaaayyy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanaaayyy" alt="sanaaayyy" /></a> </p>
