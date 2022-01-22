@@ -42,7 +42,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<img align="left" height="400" src="https://raw.githubusercontent.com/PulkitSinghDev/PulkitSinghDev/main/github.gif" > </p>
+<a target="_blank"><img align="left" height="450" width="450" alt="GIF" src="https://raw.githubusercontent.com/PulkitSinghDev/PulkitSinghDev/main/github.gif" ></a>
 
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanaaayyy&show_icons=true&locale=en&layout=compact" alt="sanaaayyy" /></p>
 
