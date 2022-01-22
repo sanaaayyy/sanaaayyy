@@ -48,7 +48,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanaaayyy&show_icons=true&theme=tokyonight&title_color=efa722&text_color=f7ab28&hide_border=true&locale=en" alt="sanaaayyy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanaaayyy&theme=dark" alt="sanaaayyy" /></p>
+<a href="https://github.com/sponsors/M0nica"><a target="_blank"><img align="right" width="200" height="200" alt="GIF" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=sanaaayyy&theme=dark" alt="sanaaayyy" /></p>
 
 <div align="center">
 
