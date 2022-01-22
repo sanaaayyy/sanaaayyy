@@ -11,7 +11,10 @@
 
 <p align="left"> <a href="https://twitter.com/me_sanay" target="blank"><img src="https://img.shields.io/twitter/follow/me_sanay?logo=twitter&style=for-the-badge" alt="me_sanay" /></a> </p>
 
-<p align="left" "![59822ff824b72-unscreen](https://user-images.githubusercontent.com/95211795/150511625-1867a3f8-a73b-484b-a1fe-63b51c8a8412.gif)" >
+<p align="left" "![59822ff824b72-unscreen](https://user-images.githubusercontent.com/95211795/150511625-1867a3f8-a73b-484b-a1fe-63b51c8a8412.gif)" > </p>
+ 
+<img align="right" src="https://user-images.githubusercontent.com/95211795/150642428-a8299583-f2cb-4c42-81a5-85074419dcc5.gif" > 
+
 
 - 🔭 I’m in freshman year at **VIT Bhopal.**
 
