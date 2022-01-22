@@ -13,7 +13,7 @@
 
 <p align="left" "https://user-images.githubusercontent.com/95211795/150511625-1867a3f8-a73b-484b-a1fe-63b51c8a8412.gif" > </p>
  
-<img align="right" height="450" src="https://user-images.githubusercontent.com/95211795/150642428-a8299583-f2cb-4c42-81a5-85074419dcc5.gif" > 
+<img align="right" height="300" src="https://user-images.githubusercontent.com/95211795/150642428-a8299583-f2cb-4c42-81a5-85074419dcc5.gif" > 
 
 
 - 🔭 I’m in freshman year at **VIT Bhopal.**
@@ -42,7 +42,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<a target="_blank"><img align="left" height="450" width="450" alt="GIF" src="https://raw.githubusercontent.com/PulkitSinghDev/PulkitSinghDev/main/github.gif" ></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://raw.githubusercontent.com/PulkitSinghDev/PulkitSinghDev/main/github.gif" ></a>
 
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanaaayyy&show_icons=true&theme=tokyonight&title_color=d98504&text_color=f7a423&hide_border=true&locale=en&layout=compact" alt="sanaaayyy" /></p>
 
