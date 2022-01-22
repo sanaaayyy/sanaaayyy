@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/me_sanay" target="blank"><img src="https://img.shields.io/twitter/follow/me_sanay?logo=twitter&style=for-the-badge" alt="me_sanay" /></a> </p>
 
-<p align="left" "![59822ff824b72-unscreen](https://user-images.githubusercontent.com/95211795/150511625-1867a3f8-a73b-484b-a1fe-63b51c8a8412.gif)" > </p>
+<p align="left" "https://user-images.githubusercontent.com/95211795/150511625-1867a3f8-a73b-484b-a1fe-63b51c8a8412.gif" > </p>
  
 <img align="right" height="450" src="https://user-images.githubusercontent.com/95211795/150642428-a8299583-f2cb-4c42-81a5-85074419dcc5.gif" > 
 
@@ -42,8 +42,22 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<img align="left" height="400" src="https://raw.githubusercontent.com/PulkitSinghDev/PulkitSinghDev/main/github.gif" > </p>
+
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanaaayyy&show_icons=true&locale=en&layout=compact" alt="sanaaayyy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanaaayyy&show_icons=true&locale=en" alt="sanaaayyy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanaaayyy&" alt="sanaaayyy" /></p>
+
+<div align="center">
+
+### Show some love by starring some of the repositories & following me!
+
+</div>
+
+#
+
+
+
+![](https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/footer.png)
