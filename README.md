@@ -44,11 +44,11 @@
 
 <a target="_blank"><img align="left" height="450" width="450" alt="GIF" src="https://raw.githubusercontent.com/PulkitSinghDev/PulkitSinghDev/main/github.gif" ></a>
 
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanaaayyy&show_icons=true&locale=en&layout=compact" alt="sanaaayyy" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanaaayyy&show_icons=true&theme=tokyonight&title_color=d98504&text_color=f7a423&hide_border=true&locale=en&layout=compact" alt="sanaaayyy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanaaayyy&show_icons=true&locale=en" alt="sanaaayyy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanaaayyy&show_icons=true&theme=tokyonight&title_color=efa722&text_color=f7ab28&hide_border=true&locale=en" alt="sanaaayyy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanaaayyy&" alt="sanaaayyy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanaaayyy&theme=dark" alt="sanaaayyy" /></p>
 
 <div align="center">
 
