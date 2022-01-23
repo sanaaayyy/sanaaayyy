@@ -9,7 +9,7 @@
 
 <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanaaayyy" alt="sanaaayyy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/me_sanay" target="blank"><img src="https://img.shields.io/twitter/follow/me_sanay?logo=twitter&style=for-the-badge" alt="me_sanay" /></a> </p>
+<p align="left" > <a href="https://twitter.com/me_sanay" target="blank"><img src="https://img.shields.io/twitter/follow/me_sanay?logo=twitter&style=for-the-badge" alt="me_sanay" /></a> </p>
 
 <p align="left" "https://user-images.githubusercontent.com/95211795/150511625-1867a3f8-a73b-484b-a1fe-63b51c8a8412.gif" > </p>
  
