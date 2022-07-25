@@ -1,5 +1,5 @@
 <h1 align="center">Sup? 👋, I'm Sanay Singh Rajawat</h1>
-<h3 align="center">A passionate freshman developer from India</h3>
+<h3 align="center">A passionate sophomore developer from India</h3>
 
 
 ![5128B947-A528-43F2-A033-B7D7E69A6A37](https://user-images.githubusercontent.com/95211795/149956019-9f5fca11-05f7-4ad2-9a21-3b31c7f5c8a6.jpg)
@@ -16,7 +16,7 @@
 <img align="right" height="300" src="https://user-images.githubusercontent.com/95211795/150642428-a8299583-f2cb-4c42-81a5-85074419dcc5.gif" > 
 
 
-- 🔭 I’m in freshman year at **VIT Bhopal.**
+- 🔭 I’m in sophomore year at **VIT Bhopal.**
 
 - 🌱 I’m currently learning **WebDevelopment.**
 
