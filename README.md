@@ -1,5 +1,5 @@
 <h1 align="center">Sup? 👋, I'm Sanay Singh Rajawat</h1>
-<h3 align="center">A passionate sophomore developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&pause=1000&width=435&lines=A+passionate+sophomore+web+developer+from+India)](https://git.io/typing-svg)
 
 
 ![5128B947-A528-43F2-A033-B7D7E69A6A37](https://user-images.githubusercontent.com/95211795/149956019-9f5fca11-05f7-4ad2-9a21-3b31c7f5c8a6.jpg)
