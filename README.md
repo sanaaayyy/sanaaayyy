@@ -2,7 +2,7 @@
 
 <!-- ![5128B947-A528-43F2-A033-B7D7E69A6A37](https://user-images.githubusercontent.com/95211795/149956019-9f5fca11-05f7-4ad2-9a21-3b31c7f5c8a6.jpg) -->
 
-<img align="center" height="500" src="https://user-images.githubusercontent.com/95211795/227731710-2cff1e28-ed71-422b-8e6d-ea8f959c6273.gif" >
+<img align="center" height="450" src="https://user-images.githubusercontent.com/95211795/227731710-2cff1e28-ed71-422b-8e6d-ea8f959c6273.gif" >
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&pause=1000&width=435&lines=Sleeping.......sssshhhhh.)](https://git.io/typing-svg)
